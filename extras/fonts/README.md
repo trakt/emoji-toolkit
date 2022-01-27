@@ -8,7 +8,7 @@ There's no better way to port our emoji into your device than through a native f
 
   * Compatible with rooted Android devices and Linux.
   * Updated Jul 7, 2021
-  * Developers using the font within their app, please review [this issue](https://github.com/joypixels/emoji-toolkit/issues/385) regarding proper display of digits.
+  * Developers using the font within their app, please review [this issue](https://github.com/trakt/emoji-toolkit/issues/385) regarding proper display of digits.
 
 Android Setup Help:
 * We recommend Emoji Switcher (now free for JoyPixels): https://play.google.com/store/apps/details?id=com.stevenschoen.emojiswitcher&hl=en

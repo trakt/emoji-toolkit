@@ -1,4 +1,4 @@
-# Migrating from joypixels/emojione to joypixels/emoji-toolkit
+# Migrating from joypixels/emojione to trakt/emoji-toolkit
 
 * EmojiOne has officially rebranded to JoyPixels
 * The joypixels/emojione repository will no longer be updated and will eventually be deprecated
@@ -13,13 +13,13 @@
     - CSS filename has changed to `joypixels.css` (`joypixels.min.css`)
     - emojione-awesome is now joypixels-awesome
         - implementation class names have changed from `e1a-` to `jpa-` (e.g. `e1a-sm e1a-grinning` is now `jpa-sm jpa-grinning`)
-- The joypixels/emoji-toolkit repository deprecates existing libraries:
+- The trakt/emoji-toolkit repository deprecates existing libraries:
     - ios
     - android
     - swift
 - These libraries have been replaced by standalone projects:
-    - ios [https://www.github.com/joypixels/emoji-toolkit-ios](https://www.github.com/joypixels/emoji-toolkit-ios)
-    - android [https://www.github.com/joypixels/emoji-toolkit-android](https://www.github.com/joypixels/emoji-toolkit-android)
+    - ios [https://www.github.com/trakt/emoji-toolkit-ios](https://www.github.com/trakt/emoji-toolkit-ios)
+    - android [https://www.github.com/trakt/emoji-toolkit-android](https://www.github.com/trakt/emoji-toolkit-android)
     
  
 **Emoji Assets**

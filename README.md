@@ -34,11 +34,11 @@ A set of libraries to help users find and replace native system emojis with JoyP
 
 
 ## Installation
-To install the JoyPixels/emoji-toolkit, please refer to the guide at [INSTALLATION.md](INSTALLATION.md). **Version 3 introduces many  potentially-breaking changes.** Refer to the [UPGRADE.md](UPGRADE.md) documentation for more details.
+To install the trakt/emoji-toolkit, please refer to the guide at [INSTALLATION.md](INSTALLATION.md). **Version 3 introduces many  potentially-breaking changes.** Refer to the [UPGRADE.md](UPGRADE.md) documentation for more details.
 
 
 ## Contributing
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more info on contributing to the JoyPixels/emoji-toolkit project. For artwork comments and questions please see the emojione-assets repo.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more info on contributing to the trakt/emoji-toolkit project. For artwork comments and questions please see the emojione-assets repo.
 
 ## Usage
 You'll find basic usage examples here in the [/examples/](examples/) directory, and links to usage demos in [USAGE.md](USAGE.md).
@@ -50,7 +50,7 @@ You'll find basic usage examples here in the [/examples/](examples/) directory, 
 
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.
 
- *  https://github.com/joypixels/emoji-toolkit/issues
+ *  https://github.com/trakt/emoji-toolkit/issues
 
 
 ### Contact

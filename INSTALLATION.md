@@ -22,7 +22,7 @@ Quick installs can also be done using NPM and Bower (for the Javascript toolkit)
 
 #### Composer
 ```
-$ composer require joypixels/emoji-toolkit
+$ composer require trakt/emoji-toolkit
 ```
 
 #### Meteor
